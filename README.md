@@ -6,3 +6,5 @@
 6. sommiamo/uniamo queste 3 stringe
 7. salviamo in una variabile c
 8. stampiamo la nostra variabile c
+9. chiediamo il suo colore preferito
+10. lo salviamo in una varibile d
