@@ -20,3 +20,8 @@ const message = `la tua password e': ${firstname}${lastname}${num}`;
 
 console.log(message);
 
+/* 8. stampiamo la nostra variabile c */
+
+const element = document.getElementById('password');
+
+element.innerText = message;
